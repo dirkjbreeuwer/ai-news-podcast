@@ -1,0 +1,9 @@
+pandas
+gspread
+oauth2client
+python-dotenv
+openai
+chromadb
+tiktoken
+scikit-learn
+matplotlib
